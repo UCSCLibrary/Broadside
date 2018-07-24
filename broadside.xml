@@ -755,6 +755,10 @@ padding: 0px 10px;
     padding: 0px !important;
 }
 
+#main li {
+  list-style: disc outside none;
+  }
+
 .post {
     padding: 20px 15px;
     margin: -18px -15px 15px;
